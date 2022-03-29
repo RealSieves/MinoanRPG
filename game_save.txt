@@ -1,0 +1,22 @@
+character_name = 
+Player
+character_ac = 
+0
+character_hp = 
+8
+character_xp = 
+48
+character_gold = 
+18
+character_status = 
+ 
+character_level = 
+0
+death_count = 
+1
+estate = 
+0
+offspring = 
+0
+character_history = 
+ , [You explored the Sacred Egyptian Crypt. You were not able to obtain the key to the treasure room before the last monster fled. At this stage you were a level 0 with 0 armor class and 30 experience points and 15 gold, and had achieved 1 kills and a level 0 estate with 0 offspring.], [You explored the Cursed Egyptian Den. You were not able to obtain the key to the treasure room before the last monster fled. At this stage you were a level 0 with 0 armor class and 30 experience points and 10 gold, and had achieved 1 kills and a level 0 estate with 0 offspring.], [You explored the Cursed Mycenaean Camp.   At this stage you were a level 0 with 0 armor class and 30 experience points and 10 gold, and had achieved 1 kills and a level 0 estate with 0 offspring.], [You explored the Sacred Minotaur Temple.   At this stage you were a level 0 with 0 armor class and 40 experience points and 15 gold, and had achieved 1 kills and a level 0 estate with 0 offspring.]

@@ -1,0 +1,23 @@
+eWWWWWWWWWWWWWWWW
+WWeeeeeeeeeeeeWTW
+eWeWWWWWWWWWWeWeW
+WWeWeeeeeeeeeeWeW
+eWeWeWWWeWWWWWWeW
+WWeWeWeeeeeeeeWeW
+eWeWeWeWWWWWWeWeW
+WeeWeeeWeeeeeeWeW
+eeeWWWWWeWWWWWWeW
+eeeWeeeWeeeeeeeeW
+eeeWWWeWWWWWWWWWW
+eeeWeWeWeWeWeWeeW
+eeeeeeeeeeeeeeeeW
+
+
+Map Making Instructions:
+
+-Replace the letters above with capital W for walls, and a capital T for the treasure room.
+-Any other letter is read as a blank space on the map and will be automatically populated with monsters and items.
+- Save this map file as map.txt when you are done.
+- Starting the game will automatically load this map as the first map.
+
+Have fun!
